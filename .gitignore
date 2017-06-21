@@ -1,15 +1,11 @@
-_site
-.idea
-node_modules
-
-# Created by https://www.gitignore.io/api/osx,sass,jekyll
+# Created by https://www.gitignore.io/api/sass,macos,jekyll
 
 ### Jekyll ###
 _site/
 .sass-cache/
 .jekyll-metadata
 
-### OSX ###
+### macOS ###
 *.DS_Store
 .AppleDouble
 .LSOverride
@@ -39,4 +35,4 @@ Temporary Items
 ### Sass ###
 *.css.map
 
-# End of https://www.gitignore.io/api/osx,sass,jekyll
+# End of https://www.gitignore.io/api/sass,macos,jekyll

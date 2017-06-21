@@ -1,6 +1,6 @@
-name: Your New Jekyll Site
+name: Runbelows Ventures
 markdown: redcarpet
 #highlighter: pygments # or rouge or null
-exclude: ["node_modules", "gulpfile.js", "package.json"]
-include: ["pages"]
+exclude: ["node_modules", "gulpfile.js", "package.json", "READEME.md"]
+include: ["_pages"]
 permalink: pretty
