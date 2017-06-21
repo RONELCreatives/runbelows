@@ -35,7 +35,4 @@
 							icon: 'assets/images/map-marker.png',
                             title: 'RUNBELOWS'
                         });
-						
-						
-
                     }
