@@ -33,7 +33,7 @@
                             position: myLatlng,
                             map: map,
 							icon: 'assets/images/map-marker.png',
-                            title: 'Lorem Ipsum'
+                            title: 'RUNBELOWS'
                         });
 						
 						
